@@ -1,6 +1,4 @@
 /*alperen inci 18120205016
- * asli gul inan 18120205022
- * nursena kilic 18120205014
  */
 #include <stdio.h>
 #include <string.h>
